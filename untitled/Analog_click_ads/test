@@ -1,0 +1,20 @@
+import  datetime
+import time
+import  random
+a = random.choice([1,2,3,4])
+print (a)
+cur_time = datetime.datetime.now().strftime("%Y-%m-%d %H:%M")
+
+#print (datetime.datetime(2017, 11, 28, 17, 5))
+a = datetime.datetime.strptime(cur_time, "%Y-%m-%d %H:%M")
+a = int(time.mktime(a .timetuple()))
+print (a)
+aq= datetime.datetime(2017, 11, 28, 17, 5)
+ad = datetime.datetime(2017, 11, 28, 17, 6)
+
+aq = int(time.mktime(aq.timetuple()))
+ad = int(time.mktime(ad.timetuple()))
+print (aq-ad)
+btn= win32gui.FindWindowEx(hwnd, None, 'Button', None)
+win32api.PostMessage(btn,win32con.WM_LBUTTONDOWN,win32con.MK_LBUTTON,0)
+win32api.PostMessage(btn,win32con.WM_LBUTTONUP,win32con.MK_LBUTTON,0)

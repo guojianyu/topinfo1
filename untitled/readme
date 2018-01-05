@@ -1,0 +1,14 @@
+Analog_click_ads存放点击广告逻辑的文件夹    模拟点击百度广告的逻辑
+    main.py 是入口函数
+
+baidu_crawl_site获取网站被百度收录的统计个数并写入excel
+    main.py 是主要逻辑文件
+
+similar_comparison本地数据库中获取文章和百度搜索文章进行相似度对比文件夹
+    compare_baidu.py是对比本地文章与百度搜索文章进行相似度的对比与入库。
+    jieba_cut.py是对本地文章高频词的提取
+
+matching_rule获取前端编辑员的规则，清洗入库的逻辑代码文件夹
+    main.py是主要逻辑代码
+
+image是存放对比图片相似度的逻辑文件夹

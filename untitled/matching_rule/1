@@ -1,0 +1,391 @@
+C:\work\Python35\python.exe C:/untitled/matching_rule/first.py
+获得任务
+9
+9
+匹配规则： [['<title>', '</title>']]
+匹配字段 title
+url: http://news.39.net/hsp/180102/5973882.html
+匹配结果为： 网红灯泡糖 医生建议莫尝试_39健康网_资讯
+匹配规则： [['<meta .*"Keywords" content="', '>']]
+匹配字段 keywords
+url: http://news.39.net/hsp/180102/5973882.html
+匹配结果为： 棒棒糖,糖果,颞下颌" /
+匹配规则： [['<meta .*"Description" content="', '>']]
+匹配字段 description
+url: http://news.39.net/hsp/180102/5973882.html
+匹配结果为： 一款与真实灯泡大小一样的“灯泡糖”风靡网络，这种号称“吃得进去，拿不出来”的神奇糖果惹来许多好奇者一试身手。" /
+匹配规则： [['<div class="art_con.*?>', '<div class="art_page']]
+匹配字段 Content
+url: http://news.39.net/hsp/180102/5973882.html
+匹配结果为：
+            	<p>　　近日一款与真实灯泡大小一样的“灯泡糖”风靡网络，这种号称“吃得进去，拿不出来”的<a href="http://ypk.39.net/509519/" target="_blank" keycmd="null">神奇</a><a href="http://fitness.39.net/food/19109.html" target="_blank" keycmd="null">糖果</a>惹来<a href="http://yyk.39.net/doctor/18750.html" target="_blank" keycmd="null">许多</a>好奇者一试身手。北京急救中心医生则就此提示，即便糖果正常融化，长时间的张口也会给关节带来损伤，而这种糖卡在嘴里会占满口腔、造成通气道阻塞，有窒息危险，建议不要尝试。</p><style>.hzh {display: none; }</style><p>　　<strong>视频</strong></p><p><strong>　　男子吞灯泡糖&nbsp;网友直言太危险</strong></p><p>　　几天前，一男子在微博上发布了一条记录他吃灯泡<a href="http://fitness.39.net/food/14626.html" target="_blank" keycmd="null">棒棒糖</a>整个过程的视频，引来网民围观。视频中，他将一个与真实灯泡1：1比例的“灯泡糖”放入口中，此后几次努力想将糖拿出来都没有成功，只得不停地吸口水加快糖的融化，结果硬生生含了45分钟后，才费力地把糖拉了出来。记者看到，有网友在评论留言询问他当时的感受以及是否受伤等，该男子通过微博回应称，把糖拿出来以后“整个嘴都是酸的”，“非常后怕”。更多网友对其行为十分反感，有网友留言“太危险”“这样就是无知的炒作”“小朋友千万不要效仿”等等。</p><p>　　随着这个视频的传播，“灯泡糖”也被带火。记者在网上看到，有多名商家在网上出售这种“网红灯泡糖”，生意最好的一家网店月销售量为400多个。记者在介绍页面上看到，这种糖直径6厘米，长度10厘米，重量200克。</p><p>　　<strong>调查</strong></p><p><strong>　　网上销售火爆&nbsp;但缺少生产信息</strong></p><p>　　“糖的大小和灯泡一模一样，使劲儿塞能放进嘴里。不过不要将糖放入口中，以免出现危险。”“禁止吞咽，后果自负。”虽然商家一再提醒，但记者在买家评论中看到显然有人还是忍不住好奇，有顾客留言，“塞不进去啊，嘴太小。”</p><p>　　有些<a href="http://yqk.39.net/zb/yaochang/95986.html" target="_blank" keycmd="null">公司</a>开年会买这种糖果当奖品发放，还有人把它当作礼物想捉弄朋友或同事，也有家长买来送给孩子玩，同时还有许多市民对这种糖的安全性提出质疑。购买这种糖的顾客邱女士就发现，该产品外包装上没有标明成分、生产厂家、生产日期等信息，只是卖家在购物网站的销售页面简单说明了这种“灯泡糖”的成分、口味等，其他信息均无。</p><div class="hzh_botleft">
+<!-- 1993：新闻终端页_文中画中画 类型： 尺寸：200x300 -->
+<script type="text/javascript">//<![CDATA[
+ac_as_id = 1993;
+ac_format = 0;
+ac_mode = 1;
+ac_group_id = 1;
+ac_server_base_url = "d-test.39.net/";
+//]]></script>
+<script type="text/javascript" src="http://image.39.net/style/style.js"></script>
+</div><p>　　<strong>医生建议</strong></p><p><strong>　　影响颞下颌关节&nbsp;有窒息危险</strong></p><p>　　对这种“灯泡糖”，北京急救中心医生刘洋提示，这种糖塞进嘴里后会撑满口腔，导致肌肉产生反应性收缩，从而影响颞下颌关节的活动，阻碍咀嚼、吞咽等重要活动，自然难以取出。而且它会造成通气道阻塞，影响吞咽、正常呼吸，有窒息危险。即使等糖果正常融化，长时间的张口也会给关节带来损伤，建议市民不要尝试。</p>
+<script language="javascript">
+if (!window.jQuery)
+  document.write("<script language='javascript' src='http://image.39.net/hits/jquery-1.4.2.min.js'><\/script>");
+</script>
+<script language="javascript" src="http://image.39.net/js/linkTip.js"></script>
+<script language="javascript">
+   jQuery('a[keycmd]').art_ContentEvent({keycmd:'keycmd'});
+</script>
+            </div>
+
+			<div class="implant_box"><div class="implant_tit"><h3><a href="http://ypk.39.net/509519/">神奇(珊瑚癣净)</a></h3><span class="yao_ico"><i class="ico_otc_green" title="非处方药物（乙类）"></i><i class="ico_wai" title="外用药物"></i></span><!--more related drugs--></div><div class="implant_con"><div class="imp_left166"><a href="http://ypk.39.net/509519/" title="神奇(珊瑚癣净)"><img src="http://img.39.net/yp/360/s/509519.jpg" width="164" height="124" alt="神奇(珊瑚癣净)"></a><p><span class="s1">250毫升</span><em>￥11.0</em></p><p><span class="s2"><b>24</b>家药店在线销售</span><a href="http://ypk.39.net/buy/d509519_s0_pi1_pz30_r0_c-1_m-1.shtml" title="购买" class="btns_gouyao">购买</a></p><p><a href="http://ypk.39.net/comment/509519/1.shtml" title="29位用户点评了该药">29位用户点评了该药&gt;&gt;</a></p></div><div class="imp_right415"><p class="y1"><cite>贵州金桥药业有限公司</cite></p><p class="y2">【适应症】杀菌，止痒。用于脚癣、手癣、指（趾）甲癣。<span class="cmore">[<a href="http://ypk.39.net/manual/509519/12/">详情</a>]</span></p><p class="y3"><span>【<a href="http://ypk.39.net/manual/509519/12/">适应症</a>】【<a href="http://ypk.39.net/manual/509519/2/">不良反应</a>】【<a href="http://ypk.39.net/manual/509519/3/">禁忌症</a>】【<a href="http://ypk.39.net/manual/509519/4/">注意事项</a>】</span><span class="ymore"><a href="http://ypk.39.net/manual/509519/0/">详细说明书&gt;&gt;</a></span></p><div class="imp_search"><input name="tw_title" type="text" id="tw_title" value="神奇(珊瑚癣净)" class="formtexts" style="width:270px;"><a href="javascript:void(0);" title="提问" class="tw_a" id="btn_ask_addtopic">提问</a><script>$('#btn_ask_addtopic').click(function(){window.open('http://ask.39.net/addtopic.aspx?words='+escape($('#tw_title').val()),'asktopic');});</script><input type="button" value="" class="tw_sou formbtns" title="搜索" id="btn_ask_searchtopic"><script>$('#btn_ask_searchtopic').click(function(){window.open('http://so.39.net/ask.aspx?words='+escape($('#tw_title').val())+'&q_search=%CB%D1%CB%F7%B4%F0%B0%B8','searchtopic');});</script></div><div class="imp_zixun"><ul class="rmid_list"><li><a href="http://ask.39.net/question/52691808.html" title="嵩馥疗法非药，非手术，真的这么神奇吗？">嵩馥疗法非药，非手术，真的这么神奇吗？</a></li><li><a href="http://ask.39.net/question/52323486.html" title="一觉醒来，我发现生命很神奇，刚才做了噩">一觉醒来，我发现生命很神奇，刚才做了噩</a></li></ul><span class="ymore"><a href="http://so.39.net/ask.aspx?words=%c9%ba%ba%f7%d1%a2%be%bb+%c9%f1%c6%e6&q_search=%CB%D1%CB%F7%B4%F0%B0%B8'">更多咨询&gt;&gt;</a></span></div></div></div></div>
+
+匹配规则： [['<span class="art_location.*?>', '</span>']]
+匹配字段 Path
+url: http://news.39.net/hsp/180102/5973882.html
+匹配结果为： <a class="ClassNav" href="http://www.39.net">首页</a> > <a class="ClassNav" href="http://news.39.net/">资讯</a> > <a class="ClassNav" href="http://news.39.net/hxw/">黑信息</a> > <a class="ClassNav" href="http://news.39.net/hxw/hsp/">黑食品</a> &gt; <b>正文</b>
+匹配规则： [['<title>', '</title>']]
+匹配字段 title
+url: http://news.39.net/hsp/160918/4964544.html
+匹配结果为： 中秋卖剩的月饼去哪儿了？专家称或流向农村地区_39健康网_资讯
+匹配规则： [['<meta .*"Keywords" content="', '>']]
+匹配字段 keywords
+url: http://news.39.net/hsp/160918/4964544.html
+匹配结果为： 月饼" /
+匹配规则： [['<meta .*"Description" content="', '>']]
+匹配字段 description
+url: http://news.39.net/hsp/160918/4964544.html
+匹配结果为： 不良商家把过期月饼用作其他食品原材料，或低价流向农村地区。" /
+匹配规则： [['<div class="art_con.*?>', '<div class="art_page']]
+匹配字段 Content
+url: http://news.39.net/hsp/160918/4964544.html
+匹配结果为：
+            	<p>　　</p><center><img src="http://pimg.39.net/PictureLib/A/f76/20160918/org_758640.jpg" style="margin:0px;padding:0px;vertical-align:middle;border:0px;" /></center><style>.hzh {display: none; }</style><p></p><div class="hzh_botleft">
+<!-- 1993：新闻终端页_文中画中画 类型： 尺寸：200x300 -->
+<script type="text/javascript">//<![CDATA[
+ac_as_id = 1993;
+ac_format = 0;
+ac_mode = 1;
+ac_group_id = 1;
+ac_server_base_url = "d-test.39.net/";
+//]]></script>
+<script type="text/javascript" src="http://image.39.net/style/style.js"></script>
+</div><p>　　中秋节过去了，雄踞各大商场和超市货架许久的月饼也在一夕之间下架。不少市民疑惑，没有卖出去的月饼厂家会如何处理？</p><p>　　专家认为，月饼作为季节性产品，中秋节前后出现“冰火两重天”的销售情况属正常，出现存货也是必然。但须警惕不良商家把过期月饼用作其他食品原材料或低价流向农村地区，对于剩余月饼的处理需建立有效的处理机制，有关部门予以监督，保障老百姓“舌尖上的安全”。 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; </p>
+<script language="javascript">
+if (!window.jQuery)
+  document.write("<script language='javascript' src='http://image.39.net/hits/jquery-1.4.2.min.js'><\/script>");
+</script>
+<script language="javascript" src="http://image.39.net/js/linkTip.js"></script>
+<script language="javascript">
+   jQuery('a[keycmd]').art_ContentEvent({keycmd:'keycmd'});
+</script>
+            </div>
+
+
+
+匹配规则： [['<span class="art_location.*?>', '</span>']]
+匹配字段 Path
+url: http://news.39.net/hsp/160918/4964544.html
+匹配结果为： <a class="ClassNav" href="http://www.39.net">首页</a> > <a class="ClassNav" href="http://news.39.net/">资讯</a> > <a class="ClassNav" href="http://news.39.net/hxw/">黑信息</a> > <a class="ClassNav" href="http://news.39.net/hxw/hsp/">黑食品</a> &gt; <b>正文</b>
+匹配规则： [['<title>', '</title>']]
+匹配字段 title
+url: http://news.39.net/hsp/171220/5946512.html
+匹配结果为： 麦德龙卖发霉面包赔千元 未就发霉原因作出说明_39健康网_资讯
+匹配规则： [['<meta .*"Keywords" content="', '>']]
+匹配字段 keywords
+url: http://news.39.net/hsp/171220/5946512.html
+匹配结果为： 面包,发霉" /
+匹配规则： [['<meta .*"Description" content="', '>']]
+匹配字段 description
+url: http://news.39.net/hsp/171220/5946512.html
+匹配结果为： 安女士反映，她于本月16日在麦德龙京顺路商场购买了名为“香橙芝士软欧”的面包，不料，当晚回家后，安女士就发现面包发霉长毛。" /
+匹配规则： [['<div class="art_con.*?>', '<div class="art_page']]
+匹配字段 Content
+url: http://news.39.net/hsp/171220/5946512.html
+匹配结果为：
+            	<p>　　安女士近日在麦德龙京顺路商场购买<a href="http://fitness.39.net/food/18912.html" target="_blank" keycmd="null">面包</a>，回家后发现面包发霉。次日她去商场发现，同批次仍有6个发霉面包在售。为保证其他顾客安全，安女士买下所有发霉面包并和麦德龙工作人员一起拆开包装进行验证。随后，安女士购买面包的货款被退回，还额外拿到1000元赔偿。</p><style>.hzh {display: none; }</style><p>　　<strong>麦德龙内买到发霉面包</strong></p><p>　　市民安女士反映说，她于本月16日在麦德龙京顺路商场购买了名为“<a href="http://hzpk.39.net/hz/xiyu/6461d.html" target="_blank" keycmd="null">香橙</a><a href="http://spk.39.net/shipin/xxsp/e0d83.html" target="_blank" keycmd="null">芝士</a>软欧”的面包，单价11.5元。不料，当晚回家后，安女士就发现面包发霉长毛。“包装上显示生产时间是本月15日16点32分，我是在16日16点多买的，包装上显示保质期到本月18日。”</p><p>　　17日上午，安女士再次来到商场，却意外发现跟自己所买面包同批次的面包也都发了霉，且还摆在货架上出售。“我把货架上6个发霉面包全买了下来。”随后，安女士带着这些面包找到了麦德龙工作人员，一起拆开了面包验证，并全程录像。</p><p>　　<strong>面包退货再获千元赔偿</strong></p><p>　　在安女士给记者发来的视频中可以看到，拆开的面包确如安女士所买的一样，每个上面都出现了霉点，而镜头扫过包装袋上的标签，不仅生产日期、名称都<a href="http://ypk.39.net/501761/" target="_blank" keycmd="null">和安</a>女士16日所买的问题产品一致，上面还有显著打印着的“新鲜品质保证”的字样。</p><p>　　安女士告诉记者，“17日晚上，有一位自称是麦德龙经理的男子给我打电话，要求我删除已曝光的微博。”安女士表示，她17日上午当场拿到了麦德龙关于7个面包的现金退款，还额外得到1000元赔偿。“麦德龙说是作为7个面包的赔偿，给我凑个整。”</p><div class="hzh_botleft">
+<!-- 1993：新闻终端页_文中画中画 类型： 尺寸：200x300 -->
+<script type="text/javascript">//<![CDATA[
+ac_as_id = 1993;
+ac_format = 0;
+ac_mode = 1;
+ac_group_id = 1;
+ac_server_base_url = "d-test.39.net/";
+//]]></script>
+<script type="text/javascript" src="http://image.39.net/style/style.js"></script>
+</div><p>　　<strong>麦德龙方面迟迟未答复</strong></p><p>　　根据我国《食品安全法》第一百四十八条规定：“生产不符合食品安全标准的食品或者经营明知是不符合食品安全标准的食品，消费者除要求赔偿损失外，还可以向生产者或者经营者要求支付价款十倍或者损失三倍的赔偿金；增加赔偿的金额不足一千元的，为一千元。”</p><p>　　记者致电麦德龙京顺路商场，向一位自称处理了此事的经理询问了两个问题，“烤出的面包为何仅过一天就会发霉？为什么发霉的面包还在出售？”但对方以怀疑记者身份为由，拒绝接受采访。随后，记者致电麦德龙总部客服电话，再次提出上述两个问题，客服人员称会有公关部门答复记者，但截至记者发稿前，并未收到麦德龙方面任何答复。</p>
+<script language="javascript">
+if (!window.jQuery)
+  document.write("<script language='javascript' src='http://image.39.net/hits/jquery-1.4.2.min.js'><\/script>");
+</script>
+<script language="javascript" src="http://image.39.net/js/linkTip.js"></script>
+<script language="javascript">
+   jQuery('a[keycmd]').art_ContentEvent({keycmd:'keycmd'});
+</script>
+            </div>
+
+			<div class="implant_box"><div class="implant_tit"><h3><a href="http://ypk.39.net/501761/">和安(复方氨基酸胶囊(8-11))</a></h3><span class="yao_ico"><i class="ico_rx" title="处方药"></i></span><!--more related drugs--></div><div class="implant_con"><div class="imp_left166"><a href="http://ypk.39.net/501761/" title="和安(复方氨基酸胶囊(8-11))"><img src="http://img.39.net/yp/360/2nd/L/5/501761.jpg" width="164" height="124" alt="和安(复方氨基酸胶囊(8-11))"></a><p><span class="s1">0.35克</span><em>￥70.0</em></p><p><span class="s2"><b>25</b>家药店在线销售</span><a href="http://ypk.39.net/buy/d501761_s0_pi1_pz30_r0_c-1_m-1.shtml" title="购买" class="btns_gouyao">购买</a></p><p><a href="http://ypk.39.net/comment/501761/1.shtml" title="18位用户点评了该药">18位用户点评了该药&gt;&gt;</a></p></div><div class="imp_right415"><p class="y1"><cite>深圳万和制药有限公司</cite></p><p class="y2">【适应症】用于各种疾病所致的低蛋白血症的辅助治疗，如慢性肝病、肝硬化或肾病所致的低蛋白血症；外科术后或恶性肿瘤所致负氮平衡和低蛋...<span class="cmore">[<a href="http://ypk.39.net/manual/501761/12/">详情</a>]</span></p><p class="y3"><span>【<a href="http://ypk.39.net/manual/501761/12/">适应症</a>】【<a href="http://ypk.39.net/manual/501761/2/">不良反应</a>】【<a href="http://ypk.39.net/manual/501761/3/">禁忌症</a>】【<a href="http://ypk.39.net/manual/501761/4/">注意事项</a>】</span><span class="ymore"><a href="http://ypk.39.net/manual/501761/0/">详细说明书&gt;&gt;</a></span></p><div class="imp_search"><input name="tw_title" type="text" id="tw_title" value="和安(复方氨基酸胶囊(8-11))" class="formtexts" style="width:270px;"><a href="javascript:void(0);" title="提问" class="tw_a" id="btn_ask_addtopic">提问</a><script>$('#btn_ask_addtopic').click(function(){window.open('http://ask.39.net/addtopic.aspx?words='+escape($('#tw_title').val()),'asktopic');});</script><input type="button" value="" class="tw_sou formbtns" title="搜索" id="btn_ask_searchtopic"><script>$('#btn_ask_searchtopic').click(function(){window.open('http://so.39.net/ask.aspx?words='+escape($('#tw_title').val())+'&q_search=%CB%D1%CB%F7%B4%F0%B0%B8','searchtopic');});</script></div><div class="imp_zixun"><ul class="rmid_list"><li><a href="http://ask.39.net/question/52362420.html" title="如何推算危险期和安全期？">如何推算危险期和安全期？</a></li><li><a href="http://ask.39.net/question/52178051.html" title="来月经能吃乌鸡白凤丸吗？和安宫丸吗">来月经能吃乌鸡白凤丸吗？和安宫丸吗</a></li></ul><span class="ymore"><a href="http://so.39.net/ask.aspx?words=%b8%b4%b7%bd%b0%b1%bb%f9%cb%e1%bd%ba%c4%d2(8-11)+%ba%cd%b0%b2&q_search=%CB%D1%CB%F7%B4%F0%B0%B8'">更多咨询&gt;&gt;</a></span></div></div></div></div>
+
+匹配规则： [['<span class="art_location.*?>', '</span>']]
+匹配字段 Path
+url: http://news.39.net/hsp/171220/5946512.html
+匹配结果为： <a class="ClassNav" href="http://www.39.net">首页</a> > <a class="ClassNav" href="http://news.39.net/">资讯</a> > <a class="ClassNav" href="http://news.39.net/hxw/">黑信息</a> > <a class="ClassNav" href="http://news.39.net/hxw/hsp/">黑食品</a> &gt; <b>正文</b>
+匹配规则： [['<title>', '</title>']]
+匹配字段 title
+url: http://news.39.net/hsp/170901/5667382.html
+匹配结果为： 小龙虾吃出横纹肌溶解赔万元_39健康网_资讯
+匹配规则： [['<meta .*"Keywords" content="', '>']]
+匹配字段 keywords
+url: http://news.39.net/hsp/170901/5667382.html
+匹配结果为： 横纹肌溶解,小龙虾,急性肠胃炎" /
+匹配规则： [['<meta .*"Description" content="', '>']]
+匹配字段 description
+url: http://news.39.net/hsp/170901/5667382.html
+匹配结果为： 横纹肌溶解症通常发生急性肌疼痛、肌肉痉挛、肌肉水肿，触诊肌肉有“注水感”和酱油色尿。严重肌肉疼痛和横纹肌溶解的特征为血清CK活性升高，可达正常值的10倍以上。血肌红蛋白浓度升高。约1／3的病例发生急性肾功能衰竭。" /
+匹配规则： [['<div class="art_con.*?>', '<div class="art_page']]
+匹配字段 Content
+url: http://news.39.net/hsp/170901/5667382.html
+匹配结果为：
+            	<p>　　食用外卖后身体不适，该怎么维权？夏女士就碰到了这样的事。夏女士食用外卖<a href="http://fitness.39.net/food/4199.html" target="_blank" keycmd="null">小龙虾</a>后引发<a href="http://jbk.39.net/jxwcy/" target="_blank" keycmd="bindJbkUi">急性肠胃炎</a>、横纹肌溶解，将涉事小吃店告上法庭，要求涉案小吃店承担80%的赔偿责任，赔偿医疗费、误工费等各项损失2.3万余元。近日，<a href="http://yqk.39.net/sh/yaochang/9468f.html" target="_blank" keycmd="null">上海</a>市长宁区法院审理后判决小吃店赔偿夏女士1.1万余元。小吃店不服一审判决提出上诉。近日，记者从二审法院获悉，二审驳回上诉，维持原判。</p><style>.hzh {display: none; }</style><p>　<strong>　事发&nbsp;吃了两斤小龙虾后肌肉酸痛</strong></p><p>　　据法院介绍，2016年8月5日晚上，夏女士通过手机拨打涉案小吃店的外卖电话，买了十三香小龙虾、白灼小龙虾各2斤，付款200元。当晚，夏女士与母亲共同食用了小龙虾，夏女士大约吃了2斤，夏母大约吃了1斤。</p><p>　　据夏女士讲，当晚临睡前就觉得肚子有点不舒服，之后，她母亲在次日零时许，她自己在次日凌晨2点半左右，先后出现<a href="http://jbk.39.net/ot/" target="_blank" keycmd="bindJbkUi">呕吐</a>现象。到早晨5点钟左右，母女俩都出现了背部及颈部肌肉酸痛，头晕、恶心、四肢乏力等症状。清晨5点半，夏女士驾车去医院就诊并住院治疗，医生诊断为急性肠胃炎、横纹肌溶解。</p><p>　　<strong>起诉&nbsp;认为食物不干净索赔医疗费</strong></p><p>　　2016年11月，夏女士向长宁法院起诉，认为涉案小吃店外卖的小龙虾不干净，不符合食品安全标准，应对她遭受的损失承担80%的赔偿责任，赔偿医疗费、误工费等共计2.38万元。小吃店则认为自己证照齐全，从业人员都有健康合格证，也没有听说当天食用他们店小龙虾的其他顾客出现类似症状，因此不同意夏女士的诉讼请求。</p><p>　　经夏女士申请，法院委托司法鉴定机构对夏女士被诊断为急性肠胃炎、横纹肌溶解后所需的休息、营养、护理期间以及夏女士该症状与食用小龙虾之间的因果关系进行鉴定。相关鉴定意见为：患者出现横纹肌溶解的确切原因目前尚无定论，可能由两个原因导致，一是食用不洁食物引发病毒感染，二是剧烈运动后导致。如果有证据证明小龙虾是不干净的，则不能排除食用小龙虾与产生横纹肌溶解这一后果之间的因果关系。但就现有材料无法给出鉴定意见。</p><p>　<strong>　审理&nbsp;被告没有充分证明没有责任</strong></p><p>　　公开开庭审理后，长宁法院于今年4月21日对本案作出一审判决：被告小吃店应赔偿原告夏女士1.12万元。</p><p>　　承办法官傅君解释说，在类似案件中，被告方负有比原告方更重的举证责任。以本案为例，原告就当晚购买、食用小龙虾，次日凌晨出现恶心、呕吐等症状，并于次日清晨去医院就诊，被诊断为急性肠胃炎、横纹肌溶解等提供了相关证据。法庭依生活常理，推断原告因食用小龙虾不适而去医院治疗有着比较强的关联性。同时，结合鉴定机构的意见，不能排除原告就医与食用不洁食物之间的关联性。因此，举证责任转移到被告一方。</p><p>　　傅君说，被告作为食品的生产者与销售者，应当对其销售的小龙虾符合质量标准承担举证责任。而且，事发盛夏时节，天气较为炎热，被告外卖的小龙虾又是直接食用的食品，被告理应对小龙虾的来源、烹饪的成熟度、容器的清洁度以及外送包装的适宜性等更为注意，并采取适当的措施以确保食品安全。但在本案审理中，被告对这些都没有提供证据证明。综合本案具体情况，法庭认定被告应对原告的合理损失承担相应赔偿责任。原告向被告主张80%的赔偿责任，法庭予以准许。据澎湃新闻</p><p>　　<strong>横纹肌溶解</strong></p><p>　　症状：肌肉疼痛</p><p>　　横纹肌溶解症通常发生急性肌疼痛、<a href="http://jbk.39.net/zhengzhuang/jrjl/" target="_blank" keycmd="null">肌肉痉挛</a>、肌肉水肿，触诊肌肉有“注水感”和酱油色尿。严重肌肉疼痛和横纹肌溶解的特征为血清CK活性升高，可达正常值的10倍以上。血肌红蛋白浓度升高。约1/3的病例发生<a href="http://jbk.39.net/jxsgnsj/" target="_blank" keycmd="bindJbkUi">急性肾功能衰竭</a>。</p><p>　　影响：肾脏功能</p><div class="hzh_botleft">
+<!-- 1993：新闻终端页_文中画中画 类型： 尺寸：200x300 -->
+<script type="text/javascript">//<![CDATA[
+ac_as_id = 1993;
+ac_format = 0;
+ac_mode = 1;
+ac_group_id = 1;
+ac_server_base_url = "d-test.39.net/";
+//]]></script>
+<script type="text/javascript" src="http://image.39.net/style/style.js"></script>
+</div><p>　　横纹肌溶解最明显的反应就是肌肉酸痛，据报道，27岁的程小姐食用龙虾几个小时之后，就出现了全身酸痛的症状，“背痛得非常厉害，像针刺一样”。此外程小姐还觉得呼吸有些困难，但没有一般<a href="http://jbk.39.net/swzd/" target="_blank" keycmd="bindJbkUi">食物中毒</a>之后恶心、呕吐、<a href="http://jbk.39.net/fx/" target="_blank" keycmd="bindJbkUi">拉肚子</a>的症状。在被送到省人民医院后，医生问清病史之后初步确认与曾经食用龙虾有关。检查显示，程小姐的肌红蛋白在1000μg/L左右，但已经出现了尿蛋白，因此肾脏功能受到了影响。</p><p>　　运动：普通训练没事</p><p>　　而运动也会导致横纹肌溶解，几天前媒体报道，25岁大学生小赵在连续健身三天后，感到身体不适，“胳膊肿了，尿量很少，尿液的颜色也不对了”。本以为是简单拉伤，结果竟被诊断为横纹肌溶解，还下了病危通知书。研究发现，横纹肌溶解不是那么容易得的，几乎只有很久不运动、一次运动强度巨大的情况才会容易得横纹肌溶解，只有局部的超大强度、过度训练才会容易导致横纹肌溶解。对于经常运动的人来说，横纹肌溶解的可能性并不大。也就是说，即使很久没有训练，只有连续做700个深蹲或者700个俯卧撑才会患病。</p>
+<script language="javascript">
+if (!window.jQuery)
+  document.write("<script language='javascript' src='http://image.39.net/hits/jquery-1.4.2.min.js'><\/script>");
+</script>
+<script language="javascript" src="http://image.39.net/js/linkTip.js"></script>
+<script language="javascript">
+   jQuery('a[keycmd]').art_ContentEvent({keycmd:'keycmd'});
+</script>
+            </div>
+
+			<div class="implant_box"><div class="implant_tit"><h3><a href="http://jbk.39.net/jxwcy/">急性肠胃炎</a></h3><span class="jb_keyword"><a href="http://jbk.39.net/jxsgnsj/">肾衰</a></span></div><div class="implant_con"><div class="imp_left220"><div class="imp_drug_text"><p><cite>常见症状：</cite><a href="http://jbk.39.net/zhengzhuang/exyot/" title="恶心与呕吐">恶心与呕吐</a> <a href="http://jbk.39.net/zhengzhuang/ft/" title="肚子疼">肚子疼</a></p><p><cite>并发症状：</cite><a href="http://jbk.39.net/ts/" title="脱水">脱水</a></p><p><cite>相关检查：</cite><a href="http://jbk.39.net/jiancha/bcg/" title="便常规">便常规</a> <a href="http://jbk.39.net/jiancha/fxjpy/" title="粪细菌培养">粪细菌培养</a></p><p><cite>推荐用药：</cite><a href='http://ypk.39.net/588830/' title='腹可安片'>腹可安片</a></p></div><div class='imp_drug_img'><a href='http://ypk.39.net/588830/' title='腹可安片'><img src='http://img.39.net/yp/360/2nd/S/5/588830.jpg' width='78' height='58' alt='腹可安片'></a><p>清热利湿，收敛止痛。用于消化不...<span class='cmore'>[<a href='http://ypk.39.net/588830/'>详细</a>]</span></p><p class='drug_buy'><em>￥1.5</em><a href='http://ypk.39.net/buy/d588830_s0_pi1_pz30_r0_c-1_m-1.shtml' title='购药' class='btns_gouyao'>购药</a></p></div></div><div class="imp_right355"><div class="imp_rtop"><p class="rtop_link"><a href="http://jbk.39.net/jxwcy/zztz/" title="症状体征">症状体征</a> <a href="http://jbk.39.net/jxwcy/yyzl/" title="用药治疗">用药治疗</a> <a href="http://jbk.39.net/jxwcy/ysbj/" title="饮食保健">饮食保健</a> <a href="http://jbk.39.net/jxwcy/blby/" title="病理病因">病理病因</a> <a href="http://jbk.39.net/jxwcy/jcjb/" title="检查鉴别">检查鉴别</a> <a href="http://jbk.39.net/jxwcy/bfbz/" title="并发病症">并发病症</a> <a href="http://jbk.39.net/jxwcy/yfhl/" title="预防护理">预防护理</a></p><p class="rtop_yy"><cite>推荐医院：</cite><span><a href="http://yyk.39.net/sh/zonghe/54c33.html" title="上海市第六人民医院">上海市第六人民医院</a><a href="http://yyk.39.net/hospital/54c33_registers.html" title="预约挂号" class="yue">预约挂号</a></span><span><a href="http://yyk.39.net/bj/zonghe/4ccb2.html" title="中国人民解放军总医院第一附属医院">中国人民解放军总医院…</a><a href="http://yyk.39.net/hospital/4ccb2_registers.html" title="预约挂号" class="yue">预约挂号</a></span></p><p><cite>推荐医生：</cite><span><a href="http://yyk.39.net/doctor/8379.html" title="台卫平">台卫平</a> 主治医师</span><span><a href="http://yyk.39.net/doctor/277933.html" title="李建华">李建华</a> 主治医师</span><span><a href="http://yyk.39.net/doctor/336375.html" title="张靖">张靖</a> 住院医师</span></p></div><div class="imp_rmid"><a href="http://my.39.net/P14796983" class="rmid_img"><img src="http://askimg.39.net/doctor/201701/09/201701091212424758.jpg" width="56" height="70" alt="黄茶如"><span>黄茶如</span><i></i></a><ul class="rmid_list"><li><a href="http://ask.39.net/question/50260242.html" title="前天胸闷恶心去小诊所输液说是急性肠胃炎">前天胸闷恶心去小诊所输液说是急性肠胃炎</a></li><li><a href="http://ask.39.net/question/50258666.html" title="女，18岁，急性肠胃炎，近期一直便秘，">女，18岁，急性肠胃炎，近期一直便秘，</a></li><li><a href="http://ask.39.net/question/50254461.html" title="吃了医生开的急性肠胃炎药怎么两天都没大…">吃了医生开的急性肠胃炎药怎么两天都没大…</a></li></ul></div><div class="imp_rbot"><a href="http://ask.39.net/addtopic.aspx?tomid=30597621" title="向我提问" class="tw_xwtw">向我提问</a><input name="tw_title" type="text" id="tw_title" value="急性肠胃炎" class="formtexts" style="width:187px;"><input type="button" value="" class="tw_btn formbtns" title="马上提问" id="btn_ask_addtopic"><script>$('#btn_ask_addtopic').click(function(){window.open('http://ask.39.net/addtopic.aspx?words='+escape($('#tw_title').val()),'asktopic');});</script></div></div></div></div>
+
+匹配规则： [['<span class="art_location.*?>', '</span>']]
+匹配字段 Path
+url: http://news.39.net/hsp/170901/5667382.html
+匹配结果为： <a class="ClassNav" href="http://www.39.net">首页</a> > <a class="ClassNav" href="http://news.39.net/">资讯</a> > <a class="ClassNav" href="http://news.39.net/hxw/">黑信息</a> > <a class="ClassNav" href="http://news.39.net/hxw/hsp/">黑食品</a> &gt; <b>正文</b>
+匹配规则： [['<title>', '</title>']]
+匹配字段 title
+url: http://news.39.net/hsp/170912/5691389.html
+匹配结果为： 聚餐烤羊腿 四人食物中毒_39健康网_资讯
+匹配规则： [['<meta .*"Keywords" content="', '>']]
+匹配字段 keywords
+url: http://news.39.net/hsp/170912/5691389.html
+匹配结果为： 食物中毒,痢疾,急性肠胃炎,羊腿" /
+匹配规则： [['<meta .*"Description" content="', '>']]
+匹配字段 description
+url: http://news.39.net/hsp/170912/5691389.html
+匹配结果为： 何女士和朋友一行5人到龙娃炭烤羊腿甘露园店用餐。第二天一早，吃了羊腿肉的4人全部上吐下泻，并发高烧。其中两人确诊为急性肠胃炎，另外一人更为严重，被确诊为痢疾。" /
+匹配规则： [['<div class="art_con.*?>', '<div class="art_page']]
+匹配字段 Content
+url: http://news.39.net/hsp/170912/5691389.html
+匹配结果为：
+            	<p>　　市民何女士向本报反映，9月8日晚上，她和朋友一行5人到龙娃炭烤<a href="http://fitness.39.net/food/2941.html" target="_blank" keycmd="null">羊腿</a>甘露园店用餐。第二天一早，吃了羊腿肉的4人全部上吐下泻，并发高烧。其中两人确诊为<a href="http://jbk.39.net/jxwcy/" target="_blank" keycmd="bindJbkUi">急性肠胃炎</a>，另外一人更为严重，被确诊为<a href="http://jbk.39.net/lj1/" target="_blank" keycmd="bindJbkUi">痢疾</a>。何女士怀疑是吃了羊腿后<a href="http://jbk.39.net/swzd/" target="_blank" keycmd="bindJbkUi">食物中毒</a>。昨天，店家表示顾客的确在该餐厅用餐，目前正在商讨赔偿方案，可以给消费者报销药费。目前，食药监部门介入调查。</p><style>.hzh {display: none; }</style><p>　　<strong>吃完羊腿上吐下泻</strong></p><p>　　何女士称，9月8日晚上，她和4名朋友到龙娃炭<a href="http://spk.39.net/shipin/roulei/shoulei/e116b.html" target="_blank" keycmd="null">烤羊腿</a>甘露园店就餐。“我们点了一条羊腿和几个凉菜。”她说，羊腿上来之后，有一个朋友不吃<a href="http://fitness.39.net/food/2931.html" target="_blank" keycmd="null">羊肉</a>，只有四个人吃了羊腿。“当时感觉羊腿很咸，而且肉质很老，但我们当时也没有多想，就继续吃了。”</p><p>　　吃完之后，几个朋友去了歌厅唱歌，其间未再吃其他东西，只是喝了些饮料。“当天回家之后，有两个朋友开始上吐下泻，而且高烧39摄氏度。”何女士称，两名朋友次日凌晨就去了医院。“我到第二天早上6点也发了高烧，肚子很疼，一直<a href="http://jbk.39.net/fx/" target="_blank" keycmd="bindJbkUi">拉肚子</a>。我当时就觉得是吃错了东西，随后妈妈把我送去了医院。”</p><p>　　<strong>医院诊断食物中毒</strong></p><p>　　在朝阳急诊中心，何女士被诊断为急性肠胃炎，在医院打了针并买了药。“医生问我是不是吃了不干净的东西。我左思右想，在吃完羊腿之后就没有再吃其他东西。”何女士称，她将情况告诉医生后，被告知她应该是食物中毒导致的急性肠胃炎，幸好并不严重。“我烧了两天，而且<a href="http://zzk.39.net/zz/fubu/504f6.html" target="_blank" keycmd="null">腹泻</a>不止。”</p><p>　　另外两个病情较重的顾客告诉北京晨报记者，他们也是吃了羊腿之后开始发病。李先生称，他是朋友中吃羊腿最多的人，次日凌晨三点多，他开始不断闹肚子。“一晚上去了20多次厕所，后来实在扛不住，就去了医院。没想到一检查，竟然被确诊为痢疾。”记者看到了李先生的病例，上面确诊为“病毒性痢疾”，“现在我已经在医院住了四天，还是没能恢复。”</p><div class="hzh_botleft">
+<!-- 1993：新闻终端页_文中画中画 类型： 尺寸：200x300 -->
+<script type="text/javascript">//<![CDATA[
+ac_as_id = 1993;
+ac_format = 0;
+ac_mode = 1;
+ac_group_id = 1;
+ac_server_base_url = "d-test.39.net/";
+//]]></script>
+<script type="text/javascript" src="http://image.39.net/style/style.js"></script>
+</div><p>　　<strong>商家同意赔偿药费</strong></p><p>　　李先生的主治医生告诉记者，患者的情况比较严重，“病毒性的痢疾，来医院时都<a href="http://jbk.39.net/ts/" target="_blank" keycmd="bindJbkUi">脱水</a>了，现在<a href="http://ypk.39.net/498616/" target="_blank" keycmd="null">刚好</a>一些，还要需要住院观察。”何女士称，她已经就此问题和商家进行了沟通。“店家的态度还可以，他们承认是他们的问题，也愿意和我们协商。我们打算几个朋友都出院之后再去谈具体的赔偿。”此外，她已经向食药监部门进行反映，希望能将此事调查清楚。</p><p>　　龙娃炭烤羊腿甘露园店的店主告诉记者，他们已经和消费者进行了协商，并愿意承担医药费，至于其他的赔偿需要医院证明和食药监部门调查后再做协商。目前，食药监部门已经介入调查。</p>
+<script language="javascript">
+if (!window.jQuery)
+  document.write("<script language='javascript' src='http://image.39.net/hits/jquery-1.4.2.min.js'><\/script>");
+</script>
+<script language="javascript" src="http://image.39.net/js/linkTip.js"></script>
+<script language="javascript">
+   jQuery('a[keycmd]').art_ContentEvent({keycmd:'keycmd'});
+</script>
+            </div>
+
+			<div class="implant_box"><div class="implant_tit"><h3><a href="http://jbk.39.net/swzd/">食物中毒</a></h3><span class="jb_keyword"><a href="http://jbk.39.net/lj1/">痢疾</a></span></div><div class="implant_con"><div class="imp_left220"><div class="imp_drug_text"><p><cite>常见症状：</cite><a href="http://jbk.39.net/zhengzhuang/ft/" title="肚子疼">肚子疼</a> <a href="http://jbk.39.net/zhengzhuang/exyot/" title="恶心与呕吐">恶心与呕吐</a></p><p><cite>并发症状：</cite><a href="http://jbk.39.net/xk/" title="休克">休克</a> <a href="http://jbk.39.net/ts/" title="脱水">脱水</a></p><p><cite>相关检查：</cite><a href="http://jbk.39.net/jiancha/fxjpy/" title="粪细菌培养">粪细菌培养</a> <a href="http://jbk.39.net/jiancha/xjxswzdjc/" title="细菌性食物中毒检测">细菌性食物中毒检测</a></p><p><cite>推荐用药：</cite><a href='http://ypk.39.net/500781/' title='吗丁啉片剂10mg OTC'>吗丁啉片剂10mg OTC</a></p></div><div class='imp_drug_img'><a href='http://ypk.39.net/500781/' title='吗丁啉片剂10mg OTC'><img src='http://img.39.net/yp/360/xs/500781.jpg' width='78' height='58' alt='吗丁啉片剂10mg OTC'></a><p>用于消化不良、腹涨、嗳气、恶心...<span class='cmore'>[<a href='http://ypk.39.net/500781/'>详细</a>]</span></p><p class='drug_buy'><em>￥22.7</em><a href='http://ypk.39.net/buy/d500781_s0_pi1_pz30_r0_c-1_m-1.shtml' title='购药' class='btns_gouyao'>购药</a></p></div></div><div class="imp_right355"><div class="imp_rtop"><p class="rtop_link"><a href="http://jbk.39.net/swzd/zztz/" title="症状体征">症状体征</a> <a href="http://jbk.39.net/swzd/yyzl/" title="用药治疗">用药治疗</a> <a href="http://jbk.39.net/swzd/ysbj/" title="饮食保健">饮食保健</a> <a href="http://jbk.39.net/swzd/blby/" title="病理病因">病理病因</a> <a href="http://jbk.39.net/swzd/jcjb/" title="检查鉴别">检查鉴别</a> <a href="http://jbk.39.net/swzd/bfbz/" title="并发病症">并发病症</a> <a href="http://jbk.39.net/swzd/yfhl/" title="预防护理">预防护理</a></p><p class="rtop_yy"><cite>推荐医院：</cite><span><a href="http://yyk.39.net/jn/zonghe/1f626.html" title="山东省立医院">山东省立医院</a></span><span><a href="http://yyk.39.net/wf/zonghe/1d19d.html" title="潍坊市人民医院">潍坊市人民医院</a></span></p><p><cite>推荐医生：</cite><span><a href="http://yyk.39.net/doctor/185964.html" title="魏宏伟">魏宏伟</a> 副主任医师</span><span><a href="http://yyk.39.net/doctor/285487.html" title="吴春碧">吴春碧</a> 副主任医师</span><span><a href="http://yyk.39.net/doctor/286051.html" title="张解放">张解放</a> 主治医师</span></p></div><div class="imp_rmid"><ul class="rmid_list"><li><a href="http://ask.39.net/question/50225041.html" title="男，35岁，有点像食物中毒吃点什么药？">男，35岁，有点像食物中毒吃点什么药？</a></li><li><a href="http://ask.39.net/question/50220714.html" title="35岁男有点像食物中毒，已经拉肚子四…">35岁男有点像食物中毒，已经拉肚子四…</a></li><li><a href="http://ask.39.net/question/50189406.html" title="食物中毒">食物中毒</a></li></ul></div><div class="imp_rbot"><input name="tw_title" type="text" id="tw_title" value="食物中毒" class="formtexts" style="width:187px;"><input type="button" value="" class="tw_btn formbtns" title="马上提问" id="btn_ask_addtopic"><script>$('#btn_ask_addtopic').click(function(){window.open('http://ask.39.net/addtopic.aspx?words='+escape($('#tw_title').val()),'asktopic');});</script></div></div></div></div>
+
+匹配规则： [['<span class="art_location.*?>', '</span>']]
+匹配字段 Path
+url: http://news.39.net/hsp/170912/5691389.html
+匹配结果为： <a class="ClassNav" href="http://www.39.net">首页</a> > <a class="ClassNav" href="http://news.39.net/">资讯</a> > <a class="ClassNav" href="http://news.39.net/hxw/">黑信息</a> > <a class="ClassNav" href="http://news.39.net/hxw/hsp/">黑食品</a> &gt; <b>正文</b>
+匹配规则： [['<title>', '</title>']]
+匹配字段 title
+url: http://news.39.net/hsp/171122/5866646.html
+匹配结果为： 网购坚果炒货类零食需谨慎_39健康网_资讯
+匹配规则： [['<meta .*"Keywords" content="', '>']]
+匹配字段 keywords
+url: http://news.39.net/hsp/171122/5866646.html
+匹配结果为： 坚果,腹泻,呕吐" /
+匹配规则： [['<meta .*"Description" content="', '>']]
+匹配字段 description
+url: http://news.39.net/hsp/171122/5866646.html
+匹配结果为： 目前不少网售坚果炒货零食产品属于OEM代加工贴牌生产，食品代工能让企业在短时间内规模迅速扩大，但这种贴牌生产的模式中，企业对产品质量的把控力较弱，安全隐患较高。" /
+匹配规则： [['<div class="art_con.*?>', '<div class="art_page']]
+匹配字段 Content
+url: http://news.39.net/hsp/171122/5866646.html
+匹配结果为：
+            	<p>　　对于吃货们来说，双十一囤积零食必然是一大“剁手”项。然而，国家食药监总局双十一后发布的食品抽检不合格通告显示，在抽检的炒货、坚果、食用油、乳制品、薯类和膨化食品等七类食品632批次样品中，不合格样品有6批次。除一款食用油不合格外，其余不合格产品均为线上销售的坚果炒货类食品。<br /></p><style>.hzh {display: none; }</style><p>　　<strong>总局曝光</strong></p><p><strong>　　不合格坚果炒货电商</strong></p><p>　　根据国家食药监总局网站信息，此次抽检炒货食品及坚果制品111批次，不合格样品5批次。食用油、油脂及其制品97批次，不合格样品1批次。乳制品92批次，酒类95批次，薯类和膨化食品41批次，食糖54批次，饮料142批次，均未检出不合格样品。</p><p>　　5批次不合格炒货食品及坚果制品分别为1号店兵团大地旗舰店销售的<a href="http://spk.39.net/shipin/twp/e13b6.html" target="_blank" keycmd="null">椒盐</a>巴旦木，二氧化硫残留量检出值为0.25&nbsp;g/kg，国家标准对此项目的规定是不得使用。</p><p>　　二氧化硫、焦亚硫酸钾、亚硫酸钠是食品加工中常用的漂白剂和防腐剂，使用后会产生二氧化硫残留。二氧化硫进入人体后最终会转化为硫酸盐，并随尿液排出体外，少量摄入不会带来健康危害，但若过量食用，可能引起恶心、<a href="http://jbk.39.net/ot/" target="_blank" keycmd="bindJbkUi">呕吐</a>等胃肠道反应。《食品安全国家标准食品添加剂使用标准》（GB2760-2014）中规定，坚果与籽类食品生产加工中不得使用亚硫酸盐、二氧化硫等物质。</p><p>　　1号店悠享佳旗舰店销售的葵花籽仁及1号店果真了得旗舰店销售的分装<a href="http://fitness.39.net/food/1902.html" target="_blank" keycmd="null">南瓜</a>籽仁均被检出大肠杆菌不合格。大肠杆菌是国内外<a href="http://ypk.39.net/850670/" target="_blank" keycmd="null">通用</a>的食品污染常用指示菌之一。食品中检出大肠杆菌，说明食品被诸如沙门氏菌、致病性大肠杆菌、志贺氏菌等致病菌污染的可能性较大。大肠菌群超标主要源于产品的加工原料、包装材料受到污染，或是在生产过程中产品受人员、工器具等生产设备、环境的污染，有灭菌工艺的产品灭菌不彻底所致。</p><p>　　天猫千百滋食品专营店销售的蒜<a href="http://ypk.39.net/c516747/" target="_blank" keycmd="null">香青</a>豆，酸价比国家标准规定高出1.1倍。酸价是衡量食品中油脂酸败程度的主要指标。造成酸价不合格的主要原因有原料采购上把关不严、生产工艺不达标、产品储藏条件不当，特别是存贮温度较高时易导致食品中的脂肪氧化酸败。我国标准规定，熟制坚果与籽类食品酸价不得超过3mg/g。一般情况下，酸价超标的炒货食品带有明显的哈喇味等异味，最好不要食用。</p><p>　　天猫方五哥旗舰店销售的东北<a href="http://fitness.39.net/food/2599.html" target="_blank" keycmd="null">松子</a>，过氧化值比国家标准规定高出38%。过氧化值主要反映炒货食品中油脂是否氧化变质。过氧化值越高，说明产品中油脂氧化的越严重。过氧化值超标虽然一般对人体健康不会产生损害，但食用不合格产品，严重时会导致肠胃不适、<a href="http://zzk.39.net/zz/fubu/504f6.html" target="_blank" keycmd="null">腹泻</a>等症状。一般情况下，氧化变质的炒货食品在食用过程中能明显辨别出哈喇等异味。</p><p>　　<strong>网售坚果炒货问题多</strong></p><p><strong>　　知名品牌也在“黑名单”</strong></p><p>　　随着消费升级，坚果因具有高营养价值在最近几年成了消费者最喜欢的零食。英敏特发布的《中国2017年零食消费趋势》报告显示，40%的消费者相比去年吃了更多的坚果，并有超过50%的人认为坚果好吃，44%的人认为坚果是一种方便的零食，仅有9%的消费者认为坚果不健康。</p><p>　　该品类在2015-2020年间将保持10.7%的年均复合增长率，估值有千亿的市场。消费者对坚果的需求催生了坚果电商。根据天猫、京东等电商平台发布的公开数据，无论是浏览量、访问量还是销量，坚果类零食都可以秒杀其他零食种类，堪称近年来零食界当之无愧的老大。</p><p>　　然而，随着人们对网售坚果的需求增加，网售坚果也频频出现在食药监总局抽检结果的“黑榜”上，其中不乏三只松鼠、百草味等知名坚果零食电商品牌。今年8月，食药监总局官网公布，三只松鼠于2017年1月22日生产的<a href="http://fitness.39.net/food/17366.html" target="_blank" keycmd="null">开心果</a>被检出霉菌不合格，其检出值为70&nbsp;CFU/g，超出国家标准1.8倍，随后三只松鼠暂停生产，并对不合格产品进行了召回。经相关部门调查，霉菌超标系“未按规定对采购的食品原料进行检验”。另一知名坚果零食电商品牌百草味也在今年早些时候被媒体报道其<a href="http://fitness.39.net/food/7052.html" target="_blank" keycmd="null">话梅</a>味西瓜子过氧化值超标。</p><p>　　业内专家分析，目前不少网售坚果炒货零食产品属于OEM代加工贴牌生产，食品代工能让企业在短时间内规模迅速扩大，但这种贴牌生产的模式中，企业对产品质量的把控力较弱，安全隐患较高。</p><p>　　<strong>不合格坚果炒货食品名单</strong></p><p>　　产品名称&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;网店名称&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;生产企业&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;不合格项</p><p>　　兵团大地椒盐巴旦木&nbsp;&nbsp;&nbsp;1号店兵团大地旗舰店&nbsp;&nbsp;&nbsp;新疆瑞合食品有限公司&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;二氧化硫残留量</p><p>　　葵花籽仁&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;1号店悠享佳旗舰店&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;北京华禧轩食品有限公司&nbsp;&nbsp;&nbsp;&nbsp;大肠菌群</p><div class="hzh_botleft">
+<!-- 1993：新闻终端页_文中画中画 类型： 尺寸：200x300 -->
+<script type="text/javascript">//<![CDATA[
+ac_as_id = 1993;
+ac_format = 0;
+ac_mode = 1;
+ac_group_id = 1;
+ac_server_base_url = "d-test.39.net/";
+//]]></script>
+<script type="text/javascript" src="http://image.39.net/style/style.js"></script>
+</div><p>　　蒜香青豆&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;天猫千百滋食品专营店&nbsp;&nbsp;&nbsp;浏阳市永安镇湘思坊食品厂&nbsp;&nbsp;酸价</p><p>　　果真了得南瓜籽仁&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;1号店果真了得旗舰店&nbsp;&nbsp;&nbsp;河南省老枣农枣业有限公司&nbsp;&nbsp;大肠杆菌</p><p>　　方五哥东北松子&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;天猫方五哥旗舰店&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;临安方老五食品厂&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;过氧化值</p>
+<script language="javascript">
+if (!window.jQuery)
+  document.write("<script language='javascript' src='http://image.39.net/hits/jquery-1.4.2.min.js'><\/script>");
+</script>
+<script language="javascript" src="http://image.39.net/js/linkTip.js"></script>
+<script language="javascript">
+   jQuery('a[keycmd]').art_ContentEvent({keycmd:'keycmd'});
+</script>
+            </div>
+
+			<div class="implant_box"><div class="implant_tit"><h3><a href="http://ypk.39.net/505455/">健康(枸橼酸他莫昔芬片)</a></h3><span class="yao_ico"><i class="ico_rx" title="处方药"></i><i class="ico_ji" title="国家基本药物目录（2012）"></i></span><!--more related drugs--></div><div class="implant_con"><div class="imp_left166"><a href="http://ypk.39.net/505455/" title="健康(枸橼酸他莫昔芬片)"><img src="http://img.39.net/yy/2013/5/22/4d1b453dbb4.gif" width="164" height="124" alt="健康(枸橼酸他莫昔芬片)"></a><p><span class="s2"><b>17</b>家药店在线销售</span><a href="http://ypk.39.net/buy/d505455_s0_pi1_pz30_r0_c-1_m-1.shtml" title="购买" class="btns_gouyao">购买</a></p><p><a href="http://ypk.39.net/comment/505455/1.shtml" title="16位用户点评了该药">16位用户点评了该药&gt;&gt;</a></p></div><div class="imp_right415"><p class="y1"><cite>山东健康药业有限公司</cite></p><p class="y2">【适应症】1.治疗女性复发转移乳腺癌；2.用作乳腺癌手术后转移的辅助治疗，预防复发。<span class="cmore">[<a href="http://ypk.39.net/manual/505455/12/">详情</a>]</span></p><p class="y3"><span>【<a href="http://ypk.39.net/manual/505455/12/">适应症</a>】【<a href="http://ypk.39.net/manual/505455/2/">不良反应</a>】【<a href="http://ypk.39.net/manual/505455/3/">禁忌症</a>】【<a href="http://ypk.39.net/manual/505455/4/">注意事项</a>】</span><span class="ymore"><a href="http://ypk.39.net/manual/505455/0/">详细说明书&gt;&gt;</a></span></p><div class="imp_search"><input name="tw_title" type="text" id="tw_title" value="健康(枸橼酸他莫昔芬片)" class="formtexts" style="width:270px;"><a href="javascript:void(0);" title="提问" class="tw_a" id="btn_ask_addtopic">提问</a><script>$('#btn_ask_addtopic').click(function(){window.open('http://ask.39.net/addtopic.aspx?words='+escape($('#tw_title').val()),'asktopic');});</script><input type="button" value="" class="tw_sou formbtns" title="搜索" id="btn_ask_searchtopic"><script>$('#btn_ask_searchtopic').click(function(){window.open('http://so.39.net/ask.aspx?words='+escape($('#tw_title').val())+'&q_search=%CB%D1%CB%F7%B4%F0%B0%B8','searchtopic');});</script></div><div class="imp_zixun"><ul class="rmid_list"><li><a href="http://ask.39.net/question/50272636.html" title="我昨天来的大姨妈，明天正好休息办健康证">我昨天来的大姨妈，明天正好休息办健康证</a></li><li><a href="http://ask.39.net/question/50270411.html" title="请问小三阳肝功能正常能办健康证吗">请问小三阳肝功能正常能办健康证吗</a></li></ul><span class="ymore"><a href="http://so.39.net/ask.aspx?words=%e8%db%e9%da%cb%e1%cb%fb%c4%aa%ce%f4%b7%d2%c6%ac+%bd%a1%bf%b5&q_search=%CB%D1%CB%F7%B4%F0%B0%B8'">更多咨询&gt;&gt;</a></span></div></div></div></div>
+
+匹配规则： [['<span class="art_location.*?>', '</span>']]
+匹配字段 Path
+url: http://news.39.net/hsp/171122/5866646.html
+匹配结果为： <a class="ClassNav" href="http://www.39.net">首页</a> > <a class="ClassNav" href="http://news.39.net/">资讯</a> > <a class="ClassNav" href="http://news.39.net/hxw/">黑信息</a> > <a class="ClassNav" href="http://news.39.net/hxw/hsp/">黑食品</a> &gt; <b>正文</b>
+匹配规则： [['<title>', '</title>']]
+匹配字段 title
+url: http://news.39.net/hsp/150319/4593770.html
+匹配结果为： 记者暗访最脏加工厂 还原一包辣条制作真相_39健康网_资讯
+匹配规则： [['<meta .*"Keywords" content="', '>']]
+匹配字段 keywords
+url: http://news.39.net/hsp/150319/4593770.html
+匹配结果为： 辣条,急性肠胃炎,腹泻" /
+匹配规则： [['<meta .*"Description" content="', '>']]
+匹配字段 description
+url: http://news.39.net/hsp/150319/4593770.html
+匹配结果为： 记者远赴辣条生产地之一的湖南，从乡村小店到县市批发市场，再到生产辣条的小作坊，一步步为你揭开一条令人触目惊心的制作链条。" /
+匹配规则： [['<div class="art_con.*?>', '<div class="art_page']]
+匹配字段 Content
+url: http://news.39.net/hsp/150319/4593770.html
+匹配结果为：
+            	<p>　　被称为“史上最牛零食”的辣条近两年着实火了一把，一袋袋看似不起眼的小食品热销大江南北，从大中城市到偏远乡村无处不在，甚至以高出国内市场10倍的价格远销海外。但是，它麻辣、浓香的味觉背后却隐患重重，极大危害着食者，尤其是孩子的健康。近日，《生命时报》记者远赴辣条生产地之一的湖南，从乡村小店到县市批发市场，再到生产辣条的小作坊，一步步为你揭开一条令人触目惊心的制作链条。</p><style>.hzh {display: none; }</style><p></p><center><img src="http://himg2.huanqiu.com/attachment2010/2015/0317/20150317100908702.jpg" style="border:0px;vertical-align:bottom;width:400px;height:533px;" /></center><center><br /></center><p></p><p></p><center><img src="http://himg2.huanqiu.com/attachment2010/2015/0317/20150317100924166.jpg" style="border:0px;vertical-align:bottom;width:400px;height:711px;" /></center><center><br /></center><p></p><p></p><center><img src="http://himg2.huanqiu.com/attachment2010/2015/0317/20150317100935978.jpg" style="border:0px;vertical-align:bottom;width:500px;height:281px;" /></center><center><br /></center><p></p><center><img src="http://himg2.huanqiu.com/attachment2010/2015/0317/20150317100947702.jpg" style="border:0px;vertical-align:bottom;width:400px;height:711px;" /></center><p></p><p style="text-align:center;">　　记者暗访某辣条制作工厂，拍下辣条制作全过程</p><p>　　<strong>一放学，学校门口的小卖部就挤满了买辣条的孩子们</strong></p><p>　　3月初，记者先后在湖南省常德市临澧县第一中学、第二完全小学、实验小学、鳌山完小以及常德市双桥坪镇五同庵小学附近展开调查，发现“辣条”在学校周边很受欢迎，不少孩子一放学就冲进小卖部抢购“红油<a href="http://fitness.39.net/food/1663.html" target="_blank" KeyCmd="null">豆腐</a>”、“<a href="http://fitness.39.net/food/2235.html" target="_blank" KeyCmd="null">香菇</a><a href="http://fitness.39.net/food/2880.html" target="_blank" KeyCmd="null">牛肉</a>”、“牛肉<a href="http://fitness.39.net/food/17632.html" target="_blank" KeyCmd="null">青豆</a><a href="http://fitness.39.net/food/2957.html" target="_blank" KeyCmd="null">脆骨</a>”等辣条类食品。</p><p>　　3月6日上午，记者来到湖南省常德市临澧县第二完全小学，在学校对面的小超市里，记者在货架底部看到很多包装皱皱巴巴的辣条，学校周边的地上也扔着一些辣条的包装袋。一位住在附近的老人告诉记者，很多孩子放学后都有买零食吃的习惯，常是辣条、糖果一手一个。随后，记者来到临澧县实验小学，看到学校东边的文辉文具店里，不仅销售文具，门口的白色小货架上和纸箱里放着很多劣质小食品，红彤彤的辣条就身在其中。</p><div class="hzh_botleft">
+<!-- 1993：新闻终端页_文中画中画 类型： 尺寸：200x300 -->
+<script type="text/javascript">//<![CDATA[
+ac_as_id = 1993;
+ac_format = 0;
+ac_mode = 1;
+ac_group_id = 1;
+ac_server_base_url = "d-test.39.net/";
+//]]></script>
+<script type="text/javascript" src="http://image.39.net/style/style.js"></script>
+</div><p>　　辣条类食品不仅畅销于湖南的中小学门口，其网络销售量也很大。记者在某大型购物网站看到，月销量过万的辣条产品比比皆是，有一款产品的月销量甚至超过3.5万单，合计超过100万包。记者在销售指数中输入“辣条”二字，相关搜索量超过20万，近60%的喜好购买人群在18岁至24岁之间（调查未涉及未成年人群），安徽、上海、江苏等地的喜好度均高于湖南。2014年，辣条还走出了国门，身价倍增后出现在美国某购物网站上。</p><p>　　在备受追捧的同时，有关辣条存在食品安全隐患的报道也层出不穷。早在10年前，央视就曾曝光有些企业在辣条生产中违规添加防霉防腐剂“霉克星”，这种添加剂对肝肾危害极大。近年来，辣条屡因菌落总数、柠檬黄、胭脂红等项目不合格登上各级食品药品监督管理局发布的问题食品黑榜。还有一些国内外消费者在食用辣条后出现<a href="http://zzk.39.net/zz/fubu/504f6.html" target="_blank" KeyCmd="null">腹泻</a>，甚至是<a href="http://jbk.39.net/jxwcy/" target="_blank" KeyCmd="bindJbkUi">急性肠胃炎</a>。</p><p><br /></p>
+<script language="javascript">
+if (!window.jQuery)
+  document.write("<script language='javascript' src='http://image.39.net/hits/jquery-1.4.2.min.js'><\/script>");
+</script>
+<script language="javascript" src="http://image.39.net/js/linkTip.js"></script>
+<script language="javascript">
+   jQuery('a[keycmd]').art_ContentEvent({keycmd:'keycmd'});
+</script>
+            </div>
+
+
+
+匹配规则： [['<span class="art_location.*?>', '</span>']]
+匹配字段 Path
+url: http://news.39.net/hsp/150319/4593770.html
+匹配结果为： <a class="ClassNav" href="http://www.39.net">首页</a> > <a class="ClassNav" href="http://news.39.net/">资讯</a> > <a class="ClassNav" href="http://news.39.net/hxw/">黑信息</a> > <a class="ClassNav" href="http://news.39.net/hxw/hsp/">黑食品</a> &gt; <b>正文</b>
+匹配规则： [['<title>', '</title>']]
+匹配字段 title
+url: http://news.39.net/hsp/170823/5646554.html
+匹配结果为： 食药监总局：“憨豆熊”圣女果等4批次食品不合格_39健康网_资讯
+匹配规则： [['<meta .*"Keywords" content="', '>']]
+匹配字段 keywords
+url: http://news.39.net/hsp/170823/5646554.html
+匹配结果为： 苯甲酸,圣女果" /
+匹配规则： [['<meta .*"Description" content="', '>']]
+匹配字段 description
+url: http://news.39.net/hsp/170823/5646554.html
+匹配结果为： 食药监总局近期组织抽检蔬菜制品、水果制品、粮食加工品、肉制品、调味品、饮料6类食品456批次样品，发现4批次样品不合格。" /
+匹配规则： [['<div class="art_con.*?>', '<div class="art_page']]
+匹配字段 Content
+url: http://news.39.net/hsp/170823/5646554.html
+匹配结果为：
+            	<p>　　国家食品药品监督管理总局22日发布通告指出，食药监总局近期组织抽检蔬菜制品、水果制品、粮食加工品、肉制品、<a href="http://spk.39.net/shipin/twp/e09c3.html" target="_blank" keycmd="null">调味</a>品、饮料6类食品456批次样品，发现4批次样品不合格。不合格产品已被责令下架、召回，相关生产企业已被要求整改。</p><style>.hzh {display: none; }</style><p>　　根据食品安全国家标准，个别项目不合格，其产品即判定为不合格产品。根据通告，不合格产品情况为：</p><p>　　1号店商城内发从食品专营店在1号店（网站）商城销售的标称丹东大同江食品<a href="http://yqk.39.net/hf/yaochang/69f92.html" target="_blank" keycmd="null">有限公司</a>生产的<a href="http://fitness.39.net/cook/139.html" target="_blank" keycmd="null">糖醋蒜</a>米，<a href="http://ypk.39.net/498773/" target="_blank" keycmd="null">苯甲酸</a>及其钠盐（以苯甲酸计）检出值为1.6g/kg，比国家标准规定高出60%。</p><p>　　天猫思宏旗舰店在天猫（网站）商城销售的标称沧州思宏枣业有限公司生产的<a href="http://fitness.39.net/food/17458.html" target="_blank" keycmd="null">芝麻</a>枣，霉菌检出值为3.1×102cfu/g，比国家标准规定高出5.2倍。</p><div class="hzh_botleft">
+<!-- 1993：新闻终端页_文中画中画 类型： 尺寸：200x300 -->
+<script type="text/javascript">//<![CDATA[
+ac_as_id = 1993;
+ac_format = 0;
+ac_mode = 1;
+ac_group_id = 1;
+ac_server_base_url = "d-test.39.net/";
+//]]></script>
+<script type="text/javascript" src="http://image.39.net/style/style.js"></script>
+</div><p>　　天猫憨豆熊旗舰店在天猫（网站）商城销售的标称<a href="http://yqk.39.net/mas/yaochang/6a3cd.html" target="_blank" keycmd="null">安徽</a>省憨豆熊电子商务有限公司生产的<a href="http://spk.39.net/shipin/shuiguo/zrxg/e08ac.html" target="_blank" keycmd="null">圣女果</a>，二氧化硫残留量检出值为0.90g/kg，比国家标准规定高出1.57倍。</p><p>　　南宁市展福便利店销售的标称广西贺州市芬芳果蔬食品有限公司生产的皇家梅，二氧化硫残留量检出值为0.80g/kg，比国家标准规定高出1.29倍。</p><p>　　据了解，苯甲酸及其钠盐是食品工业中常见的防腐保鲜剂，对霉菌、<a href="http://ypk.39.net/858206/" target="_blank" keycmd="null">酵母</a>和细菌有较好的抑制作用。苯甲酸及其钠盐的安全性较高，少量苯甲酸对人体无毒害，可随尿液排出体外，在人体内不会蓄积。但若长期过量食入苯甲酸超标的食品可能会对肝脏功能产生一定影响。</p>
+<script language="javascript">
+if (!window.jQuery)
+  document.write("<script language='javascript' src='http://image.39.net/hits/jquery-1.4.2.min.js'><\/script>");
+</script>
+<script language="javascript" src="http://image.39.net/js/linkTip.js"></script>
+<script language="javascript">
+   jQuery('a[keycmd]').art_ContentEvent({keycmd:'keycmd'});
+</script>
+            </div>
+
+			<div class="implant_box"><div class="implant_tit"><h3><a href="http://ypk.39.net/498773/">苯甲酸</a></h3><span class="yao_ico"><i class="ico_otc_red" title="非处方药物（甲类）"></i><i class="ico_si" title="国家医保目录（乙类）"></i></span><!--more related drugs--></div><div class="implant_con"><div class="imp_left166"><a href="http://ypk.39.net/498773/" title="苯甲酸"><img src="http://img.39.net/ypk/images/nopic.gif" width="164" height="124" alt="苯甲酸"></a></div><div class="imp_right415"><p class="y1"><cite>镇江前进化工有限公司</cite></p><p class="y2">【适应症】本品为消毒防腐剂，具有抗细菌作用；在酸性环境中，0.1%浓度即有抑菌作用。通常pH值较低效果较好，如pH3.5时，0.125%的浓度在1...<span class="cmore">[<a href="http://ypk.39.net/manual/498773/12/">详情</a>]</span></p><p class="y3"><span>【<a href="http://ypk.39.net/manual/498773/12/">适应症</a>】【<a href="http://ypk.39.net/manual/498773/2/">不良反应</a>】【<a href="http://ypk.39.net/manual/498773/3/">禁忌症</a>】【<a href="http://ypk.39.net/manual/498773/4/">注意事项</a>】</span><span class="ymore"><a href="http://ypk.39.net/manual/498773/0/">详细说明书&gt;&gt;</a></span></p><div class="imp_search"><input name="tw_title" type="text" id="tw_title" value="苯甲酸" class="formtexts" style="width:270px;"><a href="javascript:void(0);" title="提问" class="tw_a" id="btn_ask_addtopic">提问</a><script>$('#btn_ask_addtopic').click(function(){window.open('http://ask.39.net/addtopic.aspx?words='+escape($('#tw_title').val()),'asktopic');});</script><input type="button" value="" class="tw_sou formbtns" title="搜索" id="btn_ask_searchtopic"><script>$('#btn_ask_searchtopic').click(function(){window.open('http://so.39.net/ask.aspx?words='+escape($('#tw_title').val())+'&q_search=%CB%D1%CB%F7%B4%F0%B0%B8','searchtopic');});</script></div><div class="imp_zixun"><ul class="rmid_list"><li><a href="http://ask.39.net/question/50166949.html" title="对丁基化羥基苯甲酸過敏，请问哪些吃的含">对丁基化羥基苯甲酸過敏，请问哪些吃的含</a></li><li><a href="http://ask.39.net/question/50019552.html" title="妇科可以使用复方苯甲酸膏吗">妇科可以使用复方苯甲酸膏吗</a></li></ul><span class="ymore"><a href="http://so.39.net/ask.aspx?words=%b1%bd%bc%d7%cb%e1+&q_search=%CB%D1%CB%F7%B4%F0%B0%B8'">更多咨询&gt;&gt;</a></span></div></div></div></div>
+
+匹配规则： [['<span class="art_location.*?>', '</span>']]
+匹配字段 Path
+url: http://news.39.net/hsp/170823/5646554.html
+匹配结果为： <a class="ClassNav" href="http://www.39.net">首页</a> > <a class="ClassNav" href="http://news.39.net/">资讯</a> > <a class="ClassNav" href="http://news.39.net/hxw/">黑信息</a> > <a class="ClassNav" href="http://news.39.net/hxw/hsp/">黑食品</a> &gt; <b>正文</b>
+匹配规则： [['<title>', '</title>']]
+匹配字段 title
+url: http://news.39.net/hsp/150325/4597046.html
+匹配结果为： 我国垃圾食品消耗量全球增速第一_39健康网_资讯
+匹配规则： [['<meta .*"Keywords" content="', '>']]
+匹配字段 keywords
+url: http://news.39.net/hsp/150325/4597046.html
+匹配结果为： 垃圾食品,碳酸饮料,肥胖" /
+匹配规则： [['<meta .*"Description" content="', '>']]
+匹配字段 description
+url: http://news.39.net/hsp/150325/4597046.html
+匹配结果为： 英国牛津大学的科学家研究发现，爱吃零食对身体的损害堪比吸烟。这是因为零食多以高油、高糖、高热量的不健康食品为主，过多摄入这些不仅会减少果蔬等食物的摄入，更会诱发肥胖，导致慢病的产生。" /
+匹配规则： [['<div class="art_con.*?>', '<div class="art_page']]
+匹配字段 Content
+url: http://news.39.net/hsp/150325/4597046.html
+匹配结果为：
+            	<p>　　吃零食不仅是现代人生活的重要组成部分，更是不少年轻人打发时间、缓解压力的好方法。但近日，英国牛津大学的科学家研究发现，爱吃零食对身体的损害堪比吸烟。这是因为零食多以高油、高糖、高热量的不健康食品为主，过多摄入这些不仅会减少果蔬等食物的摄入，更会诱发<a href="http://jbk.39.net/zhengzhuang/fp/" target="_blank" KeyCmd="null">肥胖</a>，导致慢病的产生。尤其在我国，垃圾食品等不健康食品的消耗量全球增速第一。</p><style>.hzh {display: none; }</style><p>　　<strong>无孔不入的垃圾食品</strong></p><p>　　3月1日，英国《柳叶刀》杂志刊登了一项国际最新研究指出，在全球范围内，人们饮食“垃圾化”的趋势愈发严重，其中，中国垃圾食品消耗的增长率全球最高。相比烟草，全球对它的危害重视程度都不太高。</p><p>　　现代生活中，便捷的包装、诱人的宣传和轰动的明星效应都为不健康食品穿上了一件华丽的外衣：<a href="http://fitness.39.net/food/7111.html" target="_blank" KeyCmd="null">碳酸饮料</a>邀请当红演艺明星或体育健儿为产品代言，久而久之，给碳酸饮料披上“青春”、“正能量”的光环，完全淡化其潜在的健康隐患；<a href="http://fitness.39.net/food/19430.html" target="_blank" KeyCmd="null">薯片</a>、虾条等膨化食品，为了能最大限度地抢占儿童食品市场，在口味上不断创新，甚至出现了<a href="http://fitness.39.net/food/1395.html" target="_blank" KeyCmd="null">小米</a>椒炒<a href="http://fitness.39.net/food/15335.html" target="_blank" KeyCmd="null">鸡肉</a>、<a href="http://fitness.39.net/food/1897.html" target="_blank" KeyCmd="null">黄瓜</a>等口味的薯片，但对孩子营养的需求却视而不见；<a href="http://fitness.39.net/food/5476.html" target="_blank" KeyCmd="null">方便面</a>本就方便快捷，干拌方便面的上市，更是为“懒人”和“忙人”们提供了不少便利；果肉饮料的流行，也让人体会到了边喝饮料边吃水果的便捷，为生活节奏快，没时间吃水果的白领满足了“口欲”。此外，很多人习惯食用方便快捷的垃圾食品充饥，甚至依赖其解压，更让垃圾食品大行其道。种种原因直接导致国人离吃得健康越来越远，3亿国人超重，肥胖率突破10%。</p><p>　　<strong>远离十种垃圾食品</strong></p><p>　　对此，哈佛大学公共卫生专家克里斯蒂娜·罗伯托指出，一方面，人们要为自己的健康负责；另一方面，我们要承认，当前食品环境使人们更易接受垃圾食品。</p><p>　　中国健康教育中心专家沈雁英教授则给出了生活中应尽量远离生活的10种垃圾食品：碳酸饮料，<a href="http://fitness.39.net/food/18451.html" target="_blank" KeyCmd="null">白酒</a>，油炸食品，糖果类，方便面，膨化食品，烤肠、<a href="http://fitness.39.net/food/2747.html" target="_blank" KeyCmd="null">火腿</a>肠等加工肉类，腌制食品，明火高温烤制食物，果脯蜜饯。</p><p>　　这些垃圾食品偶尔吃一次不会导致明显后果，长期食用就会遭遇诸多健康隐患，如诱发肥胖、增加患癌风险等。多项国际研究发现，爱吃垃圾食品的女性，怀孕后容易<a href="http://jbk.39.net/zc1/" target="_blank" KeyCmd="bindJbkUi">早产</a>；压力大时吃垃圾食品加倍伤身；垃圾食品还会诱发精神疾病，甚至增加暴力行为等。</p><div class="hzh_botleft">
+<!-- 1993：新闻终端页_文中画中画 类型： 尺寸：200x300 -->
+<script type="text/javascript">//<![CDATA[
+ac_as_id = 1993;
+ac_format = 0;
+ac_mode = 1;
+ac_group_id = 1;
+ac_server_base_url = "d-test.39.net/";
+//]]></script>
+<script type="text/javascript" src="http://image.39.net/style/style.js"></script>
+</div><p>　　<strong>各国围堵垃圾食品</strong></p><p>　　面对汹涌而来的垃圾食品大军，一些国家已经开始着手治理垃圾食品的泛滥了。在美国，垃圾食品已被禁止进入校园，校园饮料仅限苏打水、矿泉水、原味低脂牛奶、豆奶、100%果蔬汁等；智利政府通过惟妙惟肖的广告画面唤起人们对健康的重视；墨西哥政府颁布法令，在黄金时段所有电视台和电影院不得播放可乐、薯片等高热量食品的广告。</p><p>　　沈雁英认为，我国政府也应承担起限制垃圾食品的责任，对民众的健康负责。政府应进行宣传和教育，督促百姓拒绝垃圾食品，就像烟盒上印有“吸烟有害健康”一样，在垃圾食品的包装上也标注健康警示。另外，针对一些垃圾食品厂商通过发布虚假科研成果引领消费导向的行为，政府应以澄清，提高大家的辨别力。世界肥胖联盟研究人员蒂姆·洛布斯补充说，政府应重视儿童健康饮食习惯的养成，如果在幼年时接触垃圾食品，一旦形成口味偏好就难以纠正。</p>
+<script language="javascript">
+if (!window.jQuery)
+  document.write("<script language='javascript' src='http://image.39.net/hits/jquery-1.4.2.min.js'><\/script>");
+</script>
+<script language="javascript" src="http://image.39.net/js/linkTip.js"></script>
+<script language="javascript">
+   jQuery('a[keycmd]').art_ContentEvent({keycmd:'keycmd'});
+</script>
+            </div>
+
+
+
+匹配规则： [['<span class="art_location.*?>', '</span>']]
+匹配字段 Path
+url: http://news.39.net/hsp/150325/4597046.html
+匹配结果为： <a class="ClassNav" href="http://www.39.net">首页</a> > <a class="ClassNav" href="http://news.39.net/">资讯</a> > <a class="ClassNav" href="http://news.39.net/hxw/">黑信息</a> > <a class="ClassNav" href="http://news.39.net/hxw/hsp/">黑食品</a> &gt; <b>正文</b>
